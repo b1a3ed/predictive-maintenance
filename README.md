@@ -8,7 +8,6 @@ This project builds a machine learning pipeline to **predict rare machine failur
 Project was done using the "Machine Predictive Maintenance Classification" dataset from Kaggle.
 - **Rows:** 10,000 | **Columns:** 10  
 - **Target:** `Target` (0 = Healthy, 1 = Failure)  
-- **Failure Type:** Detailed reason for failure (not used in this model)  
 - **Class imbalance:** 96.6% healthy vs 3.4% failures  
 
 ### Features:
